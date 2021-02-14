@@ -1,6 +1,6 @@
-*Parcel Delivery System*
+#*Parcel Delivery System*
 
-## A parcel Delivery System is wrote by C++ and Data Structure and Algorithm.
+## A parcel Delivery System is wrote by C++ with Data Structure and Algorithm.
 
 ### Six of the function :
 
