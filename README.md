@@ -26,7 +26,7 @@
 
 >Delete - Tracking number.
 
->Exit - Once exit save all the record then modified.
+>Exit - Once exit saves all the records then modified.
 
 
 
