@@ -12,13 +12,20 @@
 6. Delete Record (Array)
 7. Exit 
 
->dsa.txt contains of 50 records
+>dsa.txt contains of 50 records.
+
 >Add - Tracking number, Receiver, Address.
+
 >Edit - Tracking number, Receiver, Address.
+
 >Display - display the record.
+
 >Sort - Sorting Tracking number.
+
 >Search - Searching Tracking number at which position.
+
 >Delete - Tracking number.
+
 >Exit - Once exit save all the record then modified.
 
 
